@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate of Computer Science
+role: Ph.D. Candidate of Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD Candidate in Computer Science
     institution: Zhejiang University
-    year: 2012
+    year: 2020
   - course: BSc in Software Engineering
     institution: Zhejiang University
     year: 2016
@@ -61,7 +61,7 @@ user_groups:
 - Visitors
 ---
 
-Wu Yihong (吴 奕竑) is a Ph.D. Candidate of Computer Science at the State Key Lab of CAD&CG in Zhejiang University, also a member of ZJU Interactive Data Group supervised by Prof. Wu.. My research interests include sports visualization, deep learning and data mining.
+Wu Yihong (吴 奕竑) is a Ph.D. Candidate of Computer Science at the State Key Lab of CAD&CG in Zhejiang University, also a member of ZJU Interactive Data Group supervised by Prof. Wu. My research interests include sports visualization, deep learning and data mining.
 
 I received my bachelor degree in Software Engineering at Zhejiang University. Now I'm working hard to lay a solid foundation of deep learning and visualization, and learn to think individually as a researcher.
 
